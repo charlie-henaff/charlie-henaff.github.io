@@ -1,10 +1,10 @@
 title: Charlie Henaff # your name (or website title) here
 logo: "https://avatars.githubusercontent.com/u/63849512?v=4" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Full stack developer at Sygmatel
-  </br>
-  Lovers of @coopTilleuls projects and Brittany north coast
-  </br>
+  <br><br>
+  Full stack developer at Sygmatel.  
+  Lovers of @coopTilleuls projects and Brittany north coast.
+  <br><br>
   <a href="https:// www.linkedin.com/in/charlie-henaff">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
