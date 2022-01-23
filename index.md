@@ -1,10 +1,8 @@
-## Portfolio
+# Portfolio
 
----
+## Professional projects
 
-### Professional projects
-
-[mageltys](https://mageltys.fr/) *at Sygmatel since 2020*
+### [mageltys](https://mageltys.fr/) *at Sygmatel since 2020*
 <a href="https://mageltys.fr/">
     <img src="images/mageltys.png?raw=true"/>
 </a>
@@ -17,7 +15,7 @@ All our clients are manageable by another api named glados which is interfaced w
 *i worked both on apis and android app*
 
 
-[wattme](https://play.google.com/store/apps/details?id=fr.sygmatel.wattme) *at Sygmatel 2019-2020*
+### [wattme](https://play.google.com/store/apps/details?id=fr.sygmatel.wattme) *at Sygmatel 2019-2020*
 <a href="https://play.google.com/store/apps/details?id=fr.sygmatel.wattme">
     <img src="images/wattme.png?raw=true"/>
 </a>
