@@ -1,5 +1,7 @@
 # Portfolio
 
+---
+
 ## Professional projects
 
 ### [mageltys](https://mageltys.fr/) *at Sygmatel since 2020*
