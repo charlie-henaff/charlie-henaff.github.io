@@ -27,7 +27,7 @@ This new time management application allow our employees to declare and control 
 
 This new intranet has a frontend in react, a backend in api-platform and an android application.  
 
-It interacts with internal software such as Lucca (employee management software), Cegid (erp) or Windows Active Directory thanks to talend data integration scripts.
+It interacts with internal software such as [Lucca](https://lucca.fr) (employee management software), [Cegid](https://cegid.com) (erp) or Windows Active Directory thanks to talend data integration scripts.
 
 *i proposed the stack, and worked on every part of it*
 
